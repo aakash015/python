@@ -25,7 +25,7 @@ class B:
     print("here there b")
 
 
-class C(A,B):
+class C(A,B):   #left to right dekhte hai inheritance mein 
   def __init__(self) -> None:
     print("hey it's c")
     super().feature()

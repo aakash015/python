@@ -1,6 +1,8 @@
 for i in range(11,20):
   print(i,end=",")
 
+print()
+
 for i in range (11,5,-1):
   print(i)  
 
@@ -16,3 +18,4 @@ n = 3
 while n:
   print(n)
   n-=1
+  

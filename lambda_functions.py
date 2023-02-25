@@ -7,5 +7,16 @@ print(add(2,3))
 
 a = [[1,2],[3,6],[2,1]]
 
+
+# def comp(a):
+#  return a[1]
+
+# a.sort(key=comp)
+
+# same results 
+
 a.sort(key=lambda a:a[1])
 print(a)
+
+
+

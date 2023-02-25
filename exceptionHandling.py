@@ -8,3 +8,5 @@ except Exception as e:
   print(e)  
 finally:
   print("file closed")
+
+print("testing")

@@ -16,3 +16,4 @@ c2 = Car()
 # c1.wheels=2
 print(c1.wheels)
 print(Car.wheels)
+print(c1.com)

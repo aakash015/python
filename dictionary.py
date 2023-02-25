@@ -10,9 +10,8 @@ print(my_dict[4])
 
 
 #iterating through dictionary
-
-# for i in my_dict:  #i mein sirf keys jayengi
-#   print(i,end=" ")
+#for i in my_dict:  #i mein sirf keys jayengi
+#print(i,end=" ")
 
 print(my_dict.keys())
 

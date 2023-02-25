@@ -10,6 +10,7 @@ class Student:
     self.m3 = m3
 
   @classmethod #decorator  #iske bina ye info method error dega
+  #it can modify class method
   def info(k):
    k.school = "dcx" 
    return k.school

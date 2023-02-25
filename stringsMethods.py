@@ -9,4 +9,5 @@ print(name.split(' '))
 print(name.isdigit())
 print(name.capitalize())
 print(name.islower())
+print(name.lower())
 print(name=='aakash') #false
